@@ -8,5 +8,5 @@ This session will explore the application of geospatial artificial intelligence 
 
 # Images From The WOrshop
 
-/workspaces/GeoAI-For-Climate-Change-Mitigation-IndabaX2024-Workshop/image (1).png
-/workspaces/GeoAI-For-Climate-Change-Mitigation-IndabaX2024-Workshop/image (2).png
+![Image 1](/workspaces/GeoAI-For-Climate-Change-Mitigation-IndabaX2024-Workshop/image (1).png)
+![Image 2](/workspaces/GeoAI-For-Climate-Change-Mitigation-IndabaX2024-Workshop/image (2).png)
