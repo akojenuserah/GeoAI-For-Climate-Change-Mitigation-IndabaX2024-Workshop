@@ -1,0 +1,1 @@
+# GeoAI-For-Climate-Change-Mitigation-IndabaX2024-Workshop
